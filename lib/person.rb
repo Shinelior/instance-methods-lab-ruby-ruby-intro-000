@@ -1,10 +1,7 @@
 class Person 
 def initialize
   
-  talk
-  walk
-end
-def talk
+  def talk
   puts "Hello World!"
 end
 def walk
